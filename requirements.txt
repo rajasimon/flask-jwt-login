@@ -1,0 +1,6 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-jwt-extended
+redis
+python-dotenv
